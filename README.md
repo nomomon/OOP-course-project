@@ -12,6 +12,12 @@ At that moment the travelers asks if the player has an axe, and claims to cook a
 |<img src="/assets/preview_1.png">|<img src="/assets/preview_2.png">|<img src="/assets/preview_3.png">|
 
 
+## Authors
+
+- Mansur Nurmukhambetov ([nomomon](https://github.com/nomomon))
+- Laura María Quirós ([LauraMQuiros](https://github.com/LauraMQuiros))
+- Roos Spierings ([res2207](https://github.com/res2207))
+
 ## Assignment
 
 For the final project of Object Oriented Programming, your team should create an RPG game. While there are some requirements to the outcome, which are listed below, you are mostly free in how you give shape to this project. For example, you may choose to have your RPG reflect an epic quest in a fantasy setting, an anxious protagonist buying groceries from a list, or fireside conversations among friends camping in the wild.
